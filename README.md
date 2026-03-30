@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+=======
+# vercel url: https://vlabiitree-chatbot-exp-2-electrical.vercel.app/
+
+
+>>>>>>> 1aadd9292b14834e959c376121a1a7c921091313
 # Virtual Lab Assistant (Production Refactor)
 
 Next.js App Router chatbot with AstraDB vector search and Gemini generation, refactored for streaming, modularity, and production controls.
