@@ -1,2 +1,2 @@
 export const NO_ANSWER_MESSAGE =
-  "This information is not available in the lab material.";
+  "Kindly ask questions that are related to the experiment so I can assist you better.";
